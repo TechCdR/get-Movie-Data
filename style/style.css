@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Irish+Grover&display=swap');
+
+html,
+body,
+[class*="css"] {
+    font-family: 'Irish Grover', cursive;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 2;
+    color: #4e525e;
+    /* background-color: black; */
+    /* font-weight: bold; */
+}
+
+input[type=message],
+input[type=email],
+input[type=text],
+textarea {
+    width: 100%;
+    /* Full width * /* Some padding */
+    /* Gray border */
+    border-radius: 4px;
+    /* Rounded borders */
+    box-sizing: border-box;
+    /* Make sure that padding and width stays in place */
+    margin-top: 6px;
+    /* Add a top margin */
+    margin-bottom: 16px;
+    height: 1rem;
+    align-items: center;
+    /* Bottom margin */
+    resize: vertical;
+    /* Allow the user to vertically resize the textarea (not horizontally) */
+    top: 50%;
+    padding: auto;
+}
+
+
+/* Style the submit button with a specific background color etc */
+
+
+/* When moving the mouse over the submit button, add a darker green color */
+/* button[type=Submit]:hover {
+    background-color: #45a049;
+} */
+
+div.stButton>button:first-child {
+    color: #4F8BF9;
+    border-radius: 10%;
+    /* backgroud-colo: #00ff00; */
+    height: 2em;
+    width: 5em;
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
