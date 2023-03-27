@@ -2,7 +2,10 @@
 
 <h2 align="center"> Get Any Movie Data </h2>
  
-<img src="Screenshort nike.png">
+<img src="Screenshot/image.png",>
+</br>
+<img src="Screenshot/img2.png",>
+
 
 
   ## 💰 You can help me by Donating
