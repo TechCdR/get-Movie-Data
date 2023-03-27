@@ -1,10 +1,10 @@
 import requests
 import streamlit as st
 
-
+#https://www.omdbapi.com/apikey.aspx  get your ApiKey
 
 def get_movie_data(title):
-    url = f"http://www.omdbapi.com/?t={title}&apikey=5d98bf8c"
+    url = f"http://www.omdbapi.com/?t={title}&apikey=yourApi"
     response = requests.get(url)
     data = response.json()
     return {
