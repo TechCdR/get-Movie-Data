@@ -2,9 +2,9 @@
 
 <h2 align="center"> Get Any Movie Data </h2>
  
-<img src="Screenshot/image.png",>
+<img src="Screenshot/image.png">
 </br>
-<img src="Screenshot/img2.png",>
+<img src="Screenshot/img2.png">
 
 
 
